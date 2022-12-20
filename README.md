@@ -4,22 +4,22 @@
 **Bruno-Mafra/Bruno-Mafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="/assets/Draw.png" width="300" height="300" alt="MeDraw" margin="10" align="right"/>
+<img src="/assets/Draw.png" width="330" height="330" alt="MeDraw" margin="10" align="right"/>
    &nbsp;
   
-   👦 23 years old
+   - 👦 23 years old
    
-   🌇 Living in São Bernardo do Campo, São Paulo
+   - 🌇 Living in São Bernardo do Campo, São Paulo
   
-   🔭 I’m currently working as a tech intern at @Descomplica
+   - 🔭 I’m currently working as a tech intern at @Descomplica
   
-   🌱 I’m currently studying computer science at UFABC
+   - 🌱 I’m currently studying computer science at UFABC
       
-   💬 Ask me about games, LOL, series and programming
+   - 💬 Ask me about games, LOL, series and programming
   
-   📫 You can reach me through LinkedIn
+   - 📫 You can reach me through LinkedIn
   
-   😄 Pronouns: he/him
+   - 😄 Pronouns: he/him
   
   <br clear="right"/>
   
