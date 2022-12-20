@@ -92,8 +92,8 @@
  <p align="center"> Same old stats that everybody put in their Github profiles 😅 </p>
 
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bruno-Mafra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Bruno-Mafra&show_icons=true&include_all_commits=true&count_private=true&text_color=7F7F7F&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&icon_color=F8D866" width="400px" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bruno-Mafra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Mafra&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&text_color=7F7F7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="400px" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bruno-Mafra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Bruno-Mafra&show_icons=true&include_all_commits=true&count_private=true&text_color=7F7F7F&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&icon_color=F8D866" width="450px" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bruno-Mafra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Mafra&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&text_color=7F7F7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="350px" height="192px"/></a>
   </div>
 
 <h2 align="center" id="techs">Contact me</h2>
