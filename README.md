@@ -86,6 +86,7 @@
     </tr>
   </table>
 </div>
+<br/>
 
  <h2 align="center">Github Stats</h2>
  <p align="center"> Same old stats that everybody put in their Github profiles 😅 </p>
