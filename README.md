@@ -4,7 +4,7 @@
 **Bruno-Mafra/Bruno-Mafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="/assets/Draw.png" width="310" height="310" alt="MeDraw" margin="10" align="right"/>
+<img src="/assets/Draw.png" width="320" height="320" alt="MeDraw" margin="10" align="right"/>
    &nbsp;
   
    - 👦 23 years old
