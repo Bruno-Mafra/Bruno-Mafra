@@ -4,7 +4,7 @@
 **Bruno-Mafra/Bruno-Mafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="/assets/Draw.png" width="300" height="300" alt="MeDraw" margin="10" align="left"/>
+<img src="/assets/Draw.png" width="300" height="300" alt="MeDraw" margin="10" align="right"/>
    &nbsp;
   
    👦 23 years old
@@ -21,10 +21,10 @@
   
    😄 Pronouns: he/him
   
-  <br clear="left"/>
+  <br clear="right"/>
   
- <h2 id="techs">Favorite Tech</h2>
- <p> Tools, languages, and other stuff that I'm currently learning and enjoying to work with. </p>
+ <h2 id="techs" align="center">Favorite Tech</h2>
+ <p align="center"> Tools, languages, and other stuff that I'm currently learning and enjoying to work with. </p>
 
 <div align="center">
   <table>
@@ -87,8 +87,8 @@
   </table>
 </div>
 
- <h2>Github Stats</h2>
- <p> Same old stats that everybody put in their Github profiles 😅 </p>
+ <h2 align="center">Github Stats</h2>
+ <p align="center"> Same old stats that everybody put in their Github profiles 😅 </p>
 
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bruno-Mafra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Bruno-Mafra&show_icons=true&include_all_commits=true&count_private=true&text_color=7F7F7F&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&icon_color=F8D866" width="450px" height="192px"/></a>
