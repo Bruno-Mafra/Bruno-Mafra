@@ -11,7 +11,7 @@
    
    - 🌇 Living in São Bernardo do Campo, São Paulo
   
-   - 🔭 I’m currently working as a tech intern at @Descomplica
+   - 🔭 I’m currently working as a Junior Developer at @Descomplica
   
    - 🌱 I’m currently studying computer science at UFABC
       
