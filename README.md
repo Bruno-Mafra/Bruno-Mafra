@@ -91,8 +91,8 @@
  <p align="center"> Same old stats that everybody put in their Github profiles 😅 </p>
 
 <div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Bruno-Mafra's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=Bruno-Mafra&show_icons=true&text_color=7F7F7F&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&icon_color=F8D866" width="450px" height="192px"/></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Bruno-Mafra's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bruno-Mafra&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=blue&text_color=7F7F7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="350px" height="192px"/></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Bruno-Mafra's Github Stats" src="https://github-stats-extended.vercel.app/api?username=Bruno-Mafra" width="450px"/></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Bruno-Mafra's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=Bruno-Mafra" width="350px"/></a>
 </div>
   
 <div align="center">
