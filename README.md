@@ -7,13 +7,13 @@
 <img src="/assets/Draw.png" width="320" height="320" alt="MeDraw" margin="10" align="right"/>
    &nbsp;
   
-   - 👦 23 years old
+   - 👦 27 years old
    
    - 🌇 Living in São Bernardo do Campo, São Paulo
   
-   - 🔭 I’m currently working as a Junior Developer at @Descomplica
+   - 🔭 Working as a Software Engineer at @Descomplica
   
-   - 🌱 I’m currently studying computer science at UFABC
+   - 🌱 B.Sc. in Computer Science from UFABC
       
    - 💬 Ask me about games, LOL, series and programming
   
